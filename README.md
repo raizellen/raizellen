@@ -1,3 +1,6 @@
+## hi, i'm raizelle! 👋
+i am currently a student studying bachelor of engineering (honours) with a major in software!
+
 [![raizellen's GitHubCard](https://githubcard.com/raizellen.svg?d=YcmGGi25Zpss)](https://githubcard.com/raizellen/card?utm_source=github&utm_medium=readme)
 
 
